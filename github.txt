@@ -3,3 +3,5 @@ Github Setup...
 3rd line
 
 Login to GitHub.
+
+Generate SSH Keys
